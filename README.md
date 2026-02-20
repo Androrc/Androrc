@@ -14,6 +14,12 @@
 
 ##
 
+Atualmente cursando Sistemas de Informação e em busca de estágio em TI, com interesse em desenvolvimento de software e web. Focado em aplicar conhecimentos acadêmicos na prática e em evoluir continuamente minhas competências técnicas e profissionais.
+
 <div>
   <a href="https://www.linkedin.com/in/andreyorechio/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <a href="https://github.com/Androrc?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Androrc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+  </a>
 </div>
