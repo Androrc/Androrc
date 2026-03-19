@@ -14,7 +14,7 @@
 
 ##
 
-Atualmente cursando Sistemas de Informação e em busca de estágio em TI, com interesse em desenvolvimento de software e web. Focado em aplicar conhecimentos acadêmicos na prática e em evoluir continuamente minhas competências técnicas e profissionais.
+Estudante de Sistemas de Informação, com interesse em desenvolvimento de software e web. Autodidata e movido pelo aprendizado contínuo, busco constantemente evoluir minhas competências técnicas e profissionais.
 
 <div>
   <a href="https://www.linkedin.com/in/andreyorechio/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
